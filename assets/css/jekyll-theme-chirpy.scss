@@ -23,7 +23,6 @@ body {
     BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI',
     'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji',
     'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
-  transition: background-color .35s ease-in-out;
 }
 
 %heading {
@@ -35,28 +34,4 @@ body {
 
 code, kbd, pre, samp {
   font-family: D2Coding, 'D2 coding', monospace;
-}
-
-#sidebar {
-  transition: background-color .35s ease-in-out, border-color .35s ease-in-out;
-}
-
-footer {
-  transition: background-color .35s ease-in-out, border-color .35s ease-in-out;
-}
-
-search {
-  transition: background-color .35s ease-in-out, border-color .35s ease-in-out;
-}
-
-#topbar-wrapper {
-  transition: background-color .35s ease-in-out;
-}
-
-.access>section {
-  transition: border-color .35s ease-in-out;
-}
-
-.post-tag {
-  transition: border-color .35s ease-in-out;
 }
